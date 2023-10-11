@@ -15,4 +15,4 @@
   * Google Bard : Quality attributes performance คือ ประสิทธิภาพของ Quality attributes หมายถึง ความสามารถในการตอบสนองความต้องการของลูกค้าหรือผู้ใช้งานสำหรับ Quality attributes นั้นๆ ประสิทธิภาพของ Quality attributes สามารถวัดได้จากหลายปัจจัย 
 
 
-  * สรุป  Quality Attributes : Performance : performance คือความสามารถในการทำงานทางเทคโนโลยีซึ่งวัดได้จากหลายปัจจัย
+  * สรุป  Quality Attributes : Performance : performance คือความสามารถในการทำงานทางเทคโนโลยีซึ่งวัดได้จากหลายปัจจัยเช่น ความรวดเร็วในการทำงาน ความสเถียร หรือความหลากหลายในการใช้งาน
